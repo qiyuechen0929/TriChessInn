@@ -1,5 +1,8 @@
 # TriChessInn · 三棋小馆
 
+![banner](banner.svg)
+
+
 > 三棋博弈，智慧人生 · 纯前端三棋对弈合集
 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
