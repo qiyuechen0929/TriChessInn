@@ -96,7 +96,7 @@ trichess-inn/
 
 ## 作者
 
-陈启粤
+ChenQiyue
 
 ---
 
